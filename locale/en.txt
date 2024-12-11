@@ -1,0 +1,41 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_D4E3F710_8C40_C587_41E0_3B8CD80C2A92.source = https://www.paris.fr/pages/la-fontaine-stravinsky-retrouve-son-eclat-decouvrez-ses-secrets-24204
+
+## Media
+
+### Title
+panorama_9CCDA052_8C41_5B8B_419C_4287CB68852B.label = Bathroom
+panorama_9C1AE698_8C41_4487_41CC_3B0C6B67241F.label = Bedroom
+panorama_9C1B5DCE_8C41_449B_41C2_D04EC94A386A.label = Entrance
+album_8C7B4B9C_8CC7_4CBF_41CC_900978D95287_0.label = Night Bathroom
+album_8C7B4B9C_8CC7_4CBF_41CC_900978D95287_1.label = Night Bedroom
+album_8C7B4B9C_8CC7_4CBF_41CC_900978D95287_3.label = Night Entrance bis
+album_8C7B4B9C_8CC7_4CBF_41CC_900978D95287_5.label = Night Shower
+album_8C7B4B9C_8CC7_4CBF_41CC_900978D95287_2.label = Night clothet
+album_8C7B4B9C_8CC7_4CBF_41CC_900978D95287.label = Photo Album Night Bathroom
+video_C2ADE4D9_8C41_44B9_41D3_2EB1CB425A1B.label = Video Inside
+video_DC4E5883_8C41_CC89_41B3_8FAAACC5B879.label = Video Labyrinthe
+video_8C9A695C_8C41_4DBF_41D2_D9DF14FF0A9C.label = Video exterieur
+panorama_9C1AA4D2_8C41_448B_419D_B16413410473.label = exterior
+panorama_9C1B5AB3_8C41_4C89_41C1_DEB39EF9F0D9.label = labrinthe
+
+### Video
+videolevel_96163480_B65F_443B_41D6_CF83A894049A.url = media/video_8C9A695C_8C41_4DBF_41D2_D9DF14FF0A9C_en.mp4
+videolevel_96163480_B65F_443B_41D6_CF83A894049A.posterURL = media/video_8C9A695C_8C41_4DBF_41D2_D9DF14FF0A9C_poster_en.jpg
+videolevel_961114A2_B65F_447F_41E2_6682F0C37879.url = media/video_C2ADE4D9_8C41_44B9_41D3_2EB1CB425A1B_en.mp4
+videolevel_961114A2_B65F_447F_41E2_6682F0C37879.posterURL = media/video_C2ADE4D9_8C41_44B9_41D3_2EB1CB425A1B_poster_en.jpg
+videolevel_9611D4C3_B65F_443D_41D4_E17343E606F5.url = media/video_DC4E5883_8C41_CC89_41B3_8FAAACC5B879_en.mp4
+videolevel_9611D4C3_B65F_443D_41D4_E17343E606F5.posterURL = media/video_DC4E5883_8C41_CC89_41B3_8FAAACC5B879_poster_en.jpg
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
